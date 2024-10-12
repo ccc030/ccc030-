@@ -13,8 +13,8 @@
 - 軟體開發專案
 
 ## 📫 如何聯絡我：
-- GitHub: [Your GitHub Profile Link]
-- Email: [Your Email Address]
+- GitHub: ccc030
+- Email: clara390@g-mail.nsysu.edu.tw
 
 希望能在這裡與更多有共同興趣的夥伴們交流與合作！🤝
 
